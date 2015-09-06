@@ -168,6 +168,7 @@
 				TargetAttributes = {
 					3473FC181B9BF8FC002C4B8F = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = REKGQXL464;
 					};
 					3473FC311B9BF8FC002C4B8F = {
 						CreatedOnToolsVersion = 6.4;
@@ -347,6 +348,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Source Control Test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -357,6 +359,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Source Control Test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,6 +419,7 @@
 				3473FC3E1B9BF8FC002C4B8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3473FC3F1B9BF8FC002C4B8F /* Build configuration list for PBXNativeTarget "Source Control TestTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +428,7 @@
 				3473FC411B9BF8FC002C4B8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
